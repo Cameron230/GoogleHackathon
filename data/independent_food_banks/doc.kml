@@ -1,0 +1,4017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Independent Food Banks</name>
+    <description>This map shows the location of independent food banks and food bank style projects. Each centre listed distributes food parcels regularly once a week.  </description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Wales</name>
+      <Placemark>
+        <name>Raven House Trust</name>
+        <address>NP19 0HT</address>
+        <description>NP19 0HT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bettws Food Bank</name>
+        <address>NP20 7AT</address>
+        <description>NP20 7AT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Stow Park Church Centre</name>
+        <address>NP20 4FX</address>
+        <description>NP20 4FX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Swansea Mosque</name>
+        <address>SA1 4AW</address>
+        <description>SA1 4AW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cathedral Food Bank</name>
+        <address>LL57 1RL</address>
+        <description>LL57 1RL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Jubilee Storehouse</name>
+        <address>SY23 1RX</address>
+        <description>SY23 1RX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Raven House</name>
+        <address>NP26 4NA</address>
+        <description>NP26 4NA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Helping Hands Victory Church</name>
+        <address>NP44 3BA</address>
+        <description>NP44 3BA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Helping Hands Victory Church</name>
+        <address>NP4 9AS</address>
+        <description>NP4 9AS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Helping Hands Victory Church</name>
+        <address>NP44 7NX</address>
+        <description>NP44 7NX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Helping Hands Victory Church</name>
+        <address>NP4 6YB</address>
+        <description>NP4 6YB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Belly Full</name>
+        <address>NP12 2JF</address>
+        <description>NP12 2JF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Llanelli Lifeshare Antioch Centre</name>
+        <address>SA15 2NE</address>
+        <description>SA15 2NE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Knighton Food Bank</name>
+        <address>LD7 1EU</address>
+        <description>LD7 1EU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Banc Bwyd Bro Ddyfi Food Bank</name>
+        <address>SY208ER</address>
+        <description>SY208ER</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lampeter Food Bank</name>
+        <address>SA48 7DQ</address>
+        <description>SA48 7DQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Newtown Food Bank</name>
+        <address>SY16 1QJ</address>
+        <description>SY16 1QJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Banc Bwyd Pwllheli Food Bank</name>
+        <address>LL53 5DS</address>
+        <description>LL53 5DS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Conwy Food Bank</name>
+        <address>LL29 7TE</address>
+        <description>LL29 7TE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The King's Storehouse]]></name>
+        <address>LL18 2PD</address>
+        <description>LL18 2PD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Mon CF Food Bank</name>
+        <address>LL65 1UN</address>
+        <description>LL65 1UN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Almwch Pantry No 6</name>
+        <address>LL68 9AE</address>
+        <description>LL68 9AE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Welsh Boarders and West Country</name>
+      <Placemark>
+        <name>Alsager and District Food Bank </name>
+        <address>ST7 2AG</address>
+        <description>ST7 2AG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ashburton Food Bank </name>
+        <address>TQ13 7AP</address>
+        <description>TQ13 7AP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Axminster Food Bank</name>
+        <address>EX135DZ</address>
+        <description>EX135DZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Blandford Forum Food Bank</name>
+        <address>DT11 7HA</address>
+        <description>DT11 7HA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bridging the Gap Food Bank</name>
+        <address>BA6 9EL</address>
+        <description>BA6 9EL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bridgnorth Food Bank</name>
+        <address>WV16 4AB</address>
+        <description>WV16 4AB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bude Food Bank</name>
+        <address>EX23 8RA</address>
+        <description>EX23 8RA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calne Food Bank</name>
+        <address>SN11 0JF</address>
+        <description>SN11 0JF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Chippenham Food Bank</name>
+        <address>SN14 0LL</address>
+        <description>SN14 0LL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Clun Food Bank</name>
+        <address>SY7 8JG</address>
+        <description>SY7 8JG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Community Larder, St Mary's Church Hall ]]></name>
+        <address>HR9 5HN</address>
+        <description>HR9 5HN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Community of the Sisters of the Church Food Bank</name>
+        <address>BS6 5NT]</address>
+        <description>BS6 5NT]</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Storehouse Food Bank Congleton</name>
+        <address>CW12 4EY</address>
+        <description>CW12 4EY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Corfe Mullen Community Food Bank</name>
+        <address>BH21 3LE</address>
+        <description>BH21 3LE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Corfe Mullen Food Bank</name>
+        <address>BH21 3LE</address>
+        <description>BH21 3LE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Corsham Churches Food Bank</name>
+        <address>SN13 0EB</address>
+        <description>SN13 0EB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CPR Food Bank</name>
+        <address>TR14 8HS</address>
+        <description>TR14 8HS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CPR Food Bank</name>
+        <address>TR15 3DZ</address>
+        <description>TR15 3DZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CPR Food Bank</name>
+        <address>TR15 2LL</address>
+        <description>TR15 2LL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CPR Food Bank</name>
+        <address>TR15 1NH</address>
+        <description>TR15 1NH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Craven Arms Food Bank</name>
+        <address>SY7 9NW</address>
+        <description>SY7 9NW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Crediton Food Bank</name>
+        <address>EX17 3LB</address>
+        <description>EX17 3LB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Warminster Food Bank</name>
+        <address>BA13 3DE</address>
+        <description>BA13 3DE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Warminster Food Bank</name>
+        <address>BA12 0PN</address>
+        <description>BA12 0PN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Warminster Food Bank</name>
+        <address>BA12 6EW</address>
+        <description>BA12 6EW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cullompton Food Bank</name>
+        <address>EX15 1JX</address>
+        <description>EX15 1JX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cupboard of Love</name>
+        <address>DT6 3NW</address>
+        <description>DT6 3NW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Dartmouth and District Food Bank</name>
+        <address>TQ6 9SA</address>
+        <description>TQ6 9SA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Doorway Project </name>
+        <address>SN15 1HB</address>
+        <description>SN15 1HB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Dorchester Food Bank</name>
+        <address>DT1 1RR</address>
+        <description>DT1 1RR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Fair Frome Food Bank</name>
+        <address>BA11 1EB</address>
+        <description>BA11 1EB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Food Friend</name>
+        <address>SK9 1PR</address>
+        <description>SK9 1PR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hayle Food Bank</name>
+        <address>TR27 4JU</address>
+        <description>TR27 4JU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Helping Hands </name>
+        <address>HR7 4DZ</address>
+        <description>HR7 4DZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hereford Food Bank</name>
+        <address>HR4 0BU</address>
+        <description>HR4 0BU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>HITS Food Bank</name>
+        <address>TQ12 1LZ</address>
+        <description>TQ12 1LZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Honiton Food Bank</name>
+        <address>EX14 1DH</address>
+        <description>EX14 1DH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hopeful Hampers</name>
+        <address>DT6 3RL</address>
+        <description>DT6 3RL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kingsbridge Food Bank </name>
+        <address>TQ7 1AW</address>
+        <description>TQ7 1AW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kington Food Bank </name>
+        <address>HR5 3DP</address>
+        <description>HR5 3DP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ledbury Food Bank</name>
+        <address>HR8 1DZ</address>
+        <description>HR8 1DZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Leominster Food Bank</name>
+        <address>HR6 8DA</address>
+        <description>HR6 8DA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ludlow Baptist Church</name>
+        <address>SY8 1SX</address>
+        <description>SY8 1SX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lyme Regis & Beaminster Children’s Centre & Dorset County Council ]]></name>
+        <address>DT8 3AY</address>
+        <description>DT8 3AY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>LymeNet</name>
+        <address>DT7 3HR</address>
+        <description>DT7 3HR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Market Place Food Bank</name>
+        <address>TQ9 5XL</address>
+        <description>TQ9 5XL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Melksham Food Bank</name>
+        <address>SN12 8BX</address>
+        <description>SN12 8BX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Minehead West Somerset Food Cupboard</name>
+        <address>TA24 6BN</address>
+        <description>TA24 6BN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Newquay Food Bank</name>
+        <address>TR7 3EY</address>
+        <description>TR7 3EY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Newquay Food Bank</name>
+        <address>TR7 1DP</address>
+        <description>TR7 1DP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Newquay Food Bank</name>
+        <address>TR9 6RH</address>
+        <description>TR9 6RH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Newquay Food Bank</name>
+        <address>TR7 1BD</address>
+        <description>TR7 1BD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Okehampton Food Bank</name>
+        <address>EX20 1AN</address>
+        <description>EX20 1AN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ottery St Mary Food Bank</name>
+        <address>EX11 1EU</address>
+        <description>EX11 1EU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Penzance Food Bank</name>
+        <address>TR18 3PZ</address>
+        <description>TR18 3PZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Poole Food Bank</name>
+        <address>BH15 2HP</address>
+        <description>BH15 2HP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Portland Food Bank</name>
+        <address>DT5 1JE</address>
+        <description>DT5 1JE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wareham Food Bank</name>
+        <address>BH20 4QT</address>
+        <description>BH20 4QT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Refresh</name>
+        <address>BS3 4EX</address>
+        <description>BS3 4EX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Resound</name>
+        <address>BS16 9BP</address>
+        <description>BS16 9BP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sandbach Methodist Church Food Bank</name>
+        <address>CW11 1DP</address>
+        <description>CW11 1DP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Seaton Food Bank</name>
+        <address>EX12 2RP</address>
+        <description>EX12 2RP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sherborne Food Bank</name>
+        <address>DT9 4DU</address>
+        <description>DT9 4DU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury Food Bank</name>
+        <address>SY3 7DN</address>
+        <description>SY3 7DN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury Food Bank</name>
+        <address>SY1 3PU</address>
+        <description>SY1 3PU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sid Valley Food Bank</name>
+        <address>EX10 8EN</address>
+        <description>EX10 8EN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Silk Life Food Bank</name>
+        <address>SK11 6HS</address>
+        <description>SK11 6HS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Southbourne Food Bank</name>
+        <address>BH6 3QJ</address>
+        <description>BH6 3QJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Ives Food Bank</name>
+        <address>TR26 2HG</address>
+        <description>TR26 2HG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Laurence Church Food Bank</name>
+        <address>SY6 6DQ</address>
+        <description>SY6 6DQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Store House Food Bank</name>
+        <address>BA14 8DY</address>
+        <description>BA14 8DY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Store House Food Bank</name>
+        <address>BA5 2EF</address>
+        <description>BA5 2EF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF1 1HW</address>
+        <description>TF1 1HW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF10 7AR</address>
+        <description>TF10 7AR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF1 6LP</address>
+        <description>TF1 6LP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF4 2EX</address>
+        <description>TF4 2EX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF3 1FL</address>
+        <description>TF3 1FL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF7 5AH</address>
+        <description>TF7 5AH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF2 7RB</address>
+        <description>TF2 7RB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF1 1NS</address>
+        <description>TF1 1NS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF2 6EP</address>
+        <description>TF2 6EP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF3 4HS</address>
+        <description>TF3 4HS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF7 5QZ</address>
+        <description>TF7 5QZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support</name>
+        <address>TF7 4HG</address>
+        <description>TF7 4HG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support Community Store </name>
+        <address>TF3 4AG</address>
+        <description>TF3 4AG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Telford Crisis Support Park Lane Centre</name>
+        <address>TF2 7RB</address>
+        <description>TF2 7RB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Tenbury Emergency Food Relief</name>
+        <address>WR15 8AA</address>
+        <description>WR15 8AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Lord's Larder]]></name>
+        <address>BA20 1QN</address>
+        <description>BA20 1QN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Lord's Larder (different from Yeovil)]]></name>
+        <address>TA20 1QA</address>
+        <description>TA20 1QA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Tiverton Food Bank</name>
+        <address>EX16 6PY</address>
+        <description>EX16 6PY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Torrington Community Food Bank</name>
+        <address>EX38 8BS</address>
+        <description>EX38 8BS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Torrington Community Food Bank</name>
+        <address>EX38 8AA</address>
+        <description>EX38 8AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Park Baptist Chuch Food Bank</name>
+        <address>BS3 5DA</address>
+        <description>BS3 5DA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Warminster Food Bank</name>
+        <address>BA12 9AD</address>
+        <description>BA12 9AD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Weymouth Food Bank</name>
+        <address>DT4 8DT</address>
+        <description>DT4 8DT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>South of England</name>
+      <Placemark>
+        <name>Abingdon Food Bank</name>
+        <address>OX14 1PL</address>
+        <description>OX14 1PL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bevendean Community Centre Food Bank</name>
+        <address>BN2 4LA</address>
+        <description>BN2 4LA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bordon Food Bank</name>
+        <address>GU35 0BS</address>
+        <description>GU35 0BS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bridge Church Food Bank</name>
+        <address>PO11 0JD</address>
+        <description>PO11 0JD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Brighton Food Bank</name>
+        <address>BN1 4NJ</address>
+        <description>BN1 4NJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Brighton Women's Centre Food Bank]]></name>
+        <address>BN2 1RP</address>
+        <description>BN2 1RP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Burgess Hill Food Bank</name>
+        <address>RH15 9AA</address>
+        <description>RH15 9AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Canterbury Food Bank</name>
+        <address>CT1 1PA</address>
+        <description>CT1 1PA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Canterbury Food Bank</name>
+        <address>CT2 8LS</address>
+        <description>CT2 8LS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Canterbury Food Bank</name>
+        <address>CT6 8DY</address>
+        <description>CT6 8DY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Caring Hands Food Bank</name>
+        <address>PO2 7DX</address>
+        <description>PO2 7DX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Carterton Community Food Bank</name>
+        <address>OX18 3JH</address>
+        <description>OX18 3JH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Memorial Food For All</name>
+        <address>MK2 3HU</address>
+        <description>MK2 3HU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Craven Vale Community Centre Food Bank</name>
+        <address>BN2 0FH</address>
+        <description>BN2 0FH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Dart Vineyard Food Bank</name>
+        <address>DA1 1EZ</address>
+        <description>DA1 1EZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Didcot Baptist Church Emergency Foodbank</name>
+        <address>OX11 8AB</address>
+        <description>OX11 8AB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Eastleigh Basics Bank</name>
+        <address>SO50 5PP</address>
+        <description>SO50 5PP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Fareham Basics Bank</name>
+        <address>PO16 7XU</address>
+        <description>PO16 7XU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Food 4 Seahaven</name>
+        <address>BN9 9BA</address>
+        <description>BN9 9BA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Maidenhead Foodshare</name>
+        <address>SL6 7QU</address>
+        <description>SL6 7QU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Maidenhead Foodshare</name>
+        <address>SL6 7AQ</address>
+        <description>SL6 7AQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Gosport Basics Bank</name>
+        <address>P012 1QA</address>
+        <description>P012 1QA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hangleton and West Blatchington Food Bank</name>
+        <address>BN3 7QR</address>
+        <description>BN3 7QR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Haslemere Methodist Church Food Bank</name>
+        <address>GU27 1LD</address>
+        <description>GU27 1LD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lancing and Sompting Food Bank</name>
+        <address>BN15 9AH</address>
+        <description>BN15 9AH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Landport Food Bank</name>
+        <address>BN7 2SP</address>
+        <description>BN7 2SP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Loaves and Fishes Food Bank</name>
+        <address>TN13 3TX</address>
+        <description>TN13 3TX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Loveworks Food Bank</name>
+        <address>RH2 7LR</address>
+        <description>RH2 7LR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Loveworks Food Bank</name>
+        <address>RH1 3HY</address>
+        <description>RH1 3HY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Malling Food Bank</name>
+        <address>BN7 2BY</address>
+        <description>BN7 2BY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Manna Food Bank</name>
+        <address>TW18 2DX</address>
+        <description>TW18 2DX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Meon Valley Food Bank</name>
+        <address>SO32 1PT</address>
+        <description>SO32 1PT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK3 5DR</address>
+        <description>MK3 5DR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK12 5EX</address>
+        <description>MK12 5EX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK12 5LY</address>
+        <description>MK12 5LY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK12 5TH</address>
+        <description>MK12 5TH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK14 5HA</address>
+        <description>MK14 5HA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK16 0EJ</address>
+        <description>MK16 0EJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK2 2RR</address>
+        <description>MK2 2RR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK3 6HT</address>
+        <description>MK3 6HT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK6 2TG</address>
+        <description>MK6 2TG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK6 2TG</address>
+        <description>MK6 2TG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK6 4LP</address>
+        <description>MK6 4LP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Food Bank</name>
+        <address>MK9 2ES</address>
+        <description>MK9 2ES</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Nomad Centre Food Bank</name>
+        <address>RG9 2AA</address>
+        <description>RG9 2AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>North Guildford Food Bank</name>
+        <address>GU1 1JZ</address>
+        <description>GU1 1JZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>North Guildford Food Bank</name>
+        <address>GU1 2UG</address>
+        <description>GU1 2UG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>North Guildford Food Bank</name>
+        <address>GU2 8JW</address>
+        <description>GU2 8JW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Nourish Community Food Bank</name>
+        <address>TN2 3BL</address>
+        <description>TN2 3BL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One Can Food Bank Trust</name>
+        <address>HP11 1RS</address>
+        <description>HP11 1RS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One Can Food Bank Trust</name>
+        <address>HP11 2PU</address>
+        <description>HP11 2PU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One Can Food Bank Trust</name>
+        <address>HP12 3JQ</address>
+        <description>HP12 3JQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One Can Food Bank Trust</name>
+        <address>HP12 4TJ</address>
+        <description>HP12 4TJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One Can Food Bank Trust</name>
+        <address>HP13 7YB</address>
+        <description>HP13 7YB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One Can Food Bank Trust</name>
+        <address>HP9 1DX</address>
+        <description>HP9 1DX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One Can Food Bank Trust</name>
+        <address>SL7 3HJ</address>
+        <description>SL7 3HJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One Can Food Bank Trust </name>
+        <address>HP13 6SE</address>
+        <description>HP13 6SE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Petersfield PACT</name>
+        <address>GU32 3AD</address>
+        <description>GU32 3AD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Purple People Kitchen Food Bank</name>
+        <address>BN41 1YF</address>
+        <description>BN41 1YF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ringmer Food Bank</name>
+        <address>BN8 5QH</address>
+        <description>BN8 5QH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sharing Life Thame Food Bank</name>
+        <address>OX9 3HT</address>
+        <description>OX9 3HT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Bartholomew's]]></name>
+        <address>RH6 8AB</address>
+        <description>RH6 8AB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Mark's Church]]></name>
+        <address>GU7 2LD</address>
+        <description>GU7 2LD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Matthew's Church Red Hill]]></name>
+        <address>RH1 1DL</address>
+        <description>RH1 1DL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Thanet Families in Need </name>
+        <address>CT11 8HX</address>
+        <description>CT11 8HX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The All Night Cafe</name>
+        <address>GU15 3JP</address>
+        <description>GU15 3JP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Beacon Food Bank</name>
+        <address>PO9 1UN</address>
+        <description>PO9 1UN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Community Emergency Food Bank</name>
+        <address>OX3 7JP</address>
+        <description>OX3 7JP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Larder, The Church of the Good Shepherd</name>
+        <address>GU14 8ER</address>
+        <description>GU14 8ER</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wallingford Food Bank</name>
+        <address>OX10 0LJ</address>
+        <description>OX10 0LJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Welcare East Surrey </name>
+        <address>RH1 1BU</address>
+        <description>RH1 1BU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Woodley Food Store</name>
+        <address>RG5 4UX</address>
+        <description>RG5 4UX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Scotland</name>
+      <Placemark>
+        <name>Annandale Food Bank</name>
+        <address>DG12 5EJ</address>
+        <description>DG12 5EJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Dunbar Basics Bank</name>
+        <address>EH42 1LB</address>
+        <description>EH42 1LB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Basics Bank Motherwell </name>
+        <address>ML1 1XZ</address>
+        <description>ML1 1XZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Basics Bank Wishaw</name>
+        <address>ML2 7AY</address>
+        <description>ML2 7AY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Basics Bank Aiedrie</name>
+        <address>ML6 9HA</address>
+        <description>ML6 9HA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Basics BankViewpark</name>
+        <address>G71 6PJ</address>
+        <description>G71 6PJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Belshill Community Food Bank</name>
+        <address>ML4 1DA</address>
+        <description>ML4 1DA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Berwickshire Churches Food Bank</name>
+        <address>TD11 3DD</address>
+        <description>TD11 3DD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bethlehem House of Bread Food Bank</name>
+        <address>G67 1BZ</address>
+        <description>G67 1BZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bethlehem House of Bread Food Bank</name>
+        <address>G67 2SB</address>
+        <description>G67 2SB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bridging the Gap Glasgow</name>
+        <address>G5 0YT</address>
+        <description>G5 0YT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Broke not Broken</name>
+        <address>KY13 8AY</address>
+        <description>KY13 8AY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bruntsfield Basics Bank</name>
+        <address>EH10 4JU</address>
+        <description>EH10 4JU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bute Oasis Food Bank</name>
+        <address>PA20 9DG</address>
+        <description>PA20 9DG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Central and West Integration Network</name>
+        <address>G3 6RE</address>
+        <description>G3 6RE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Edinburgh Central Mosque</name>
+        <address>EH8 9BT</address>
+        <description>EH8 9BT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Christ in Action Food Bank</name>
+        <address>KA9 1AR</address>
+        <description>KA9 1AR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Clydesdale Food Bank</name>
+        <address>ML8 4AJ</address>
+        <description>ML8 4AJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Community Food Initiatives North East</name>
+        <address>AB11 5RW</address>
+        <description>AB11 5RW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Corstorphine Basics Bank</name>
+        <address>EH12 7SQ</address>
+        <description>EH12 7SQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cowal and Dunoon Food Bank</name>
+        <address>PA23 7DP</address>
+        <description>PA23 7DP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Crookson Community Group</name>
+        <address>G53 5TF</address>
+        <description>G53 5TF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Destiny Angels</name>
+        <address>G41 3QP</address>
+        <description>G41 3QP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Destiny Angels</name>
+        <address>G15 7TG</address>
+        <description>G15 7TG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Drumchapel Foodbank</name>
+        <address>G15 8LB</address>
+        <description>G15 8LB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>East Kilbride Community Food Bank</name>
+        <address>G75 8EY</address>
+        <description>G75 8EY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>East Kilbride Community Food Bank</name>
+        <address>G74 4HG</address>
+        <description>G74 4HG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>East Kilbride Community Food Bank</name>
+        <address>G75 8TT</address>
+        <description>G75 8TT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>East Kilbride Community Food Bank</name>
+        <address>G74 2AU</address>
+        <description>G74 2AU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>East Kilbride Community Food Bank </name>
+        <address>G74 3LW</address>
+        <description>G74 3LW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>East Kilbride Community Food Bank</name>
+        <address>G75 9HZ</address>
+        <description>G75 9HZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Galashiels Area Food Bank</name>
+        <address>TD1 3JU</address>
+        <description>TD1 3JU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Govan and Craigton Integration Network </name>
+        <address>G51 3UU</address>
+        <description>G51 3UU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Granton Basics Bank</name>
+        <address>EH5 2NW</address>
+        <description>EH5 2NW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Greater Pollok Integration Network</name>
+        <address>G46 8RP</address>
+        <description>G46 8RP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Helensburgh and Lomond Food Bank</name>
+        <address>G84 0RJ</address>
+        <description>G84 0RJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Helensburgh and Lomond Food Bank</name>
+        <address>G84 7DQ</address>
+        <description>G84 7DQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Helping Hands Food Bank Stronger Youth Centre</name>
+        <address>DG7 1DJ</address>
+        <description>DG7 1DJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Trinity Centre Food Bank</name>
+        <address>EH14 2SL</address>
+        <description>EH14 2SL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Integrate Scotland</name>
+        <address>AB25 1PN</address>
+        <description>AB25 1PN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Jedburgh Churches Food Bank</name>
+        <address>TD8 6JH.</address>
+        <description>TD8 6JH.</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Jewish Care Scotland Food Bank</name>
+        <address>G46 6LD</address>
+        <description>G46 6LD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kelso Food Bank</name>
+        <address>TD5 7JH</address>
+        <description>TD5 7JH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kilsyth Community Food Bank </name>
+        <address>G65 0SW</address>
+        <description>G65 0SW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kintyre Food Bank</name>
+        <address>PA28 6TP</address>
+        <description>PA28 6TP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kirkcaldy Food Bank</name>
+        <address>KY1 6TE</address>
+        <description>KY1 6TE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kirkcaldy Food Bank</name>
+        <address>KY1 1ET</address>
+        <description>KY1 1ET</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kirkcaldy Food Bank</name>
+        <address>KY2 6LF</address>
+        <description>KY2 6LF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kirkcaldy Food Bank</name>
+        <address>KY3 9AQ</address>
+        <description>KY3 9AQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Leith Basics Bank</name>
+        <address>EH6 5JX</address>
+        <description>EH6 5JX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Loaves and Fishes</name>
+        <address>G75 0YL</address>
+        <description>G75 0YL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lodging House Mission</name>
+        <address>G1 5DP</address>
+        <description>G1 5DP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Moredun Basics Bank</name>
+        <address>EH17 7NX</address>
+        <description>EH17 7NX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Musselburgh Basics Bank</name>
+        <address>EH21 6JQ</address>
+        <description>EH21 6JQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>New Life Church</name>
+        <address>G31 5JL</address>
+        <description>G31 5JL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Newington Basics Bank</name>
+        <address>EH8 9NZ</address>
+        <description>EH8 9NZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hope Kitchen</name>
+        <address>PA34 5SG</address>
+        <description>PA34 5SG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Patrick South Parish Church</name>
+        <address>G11 6AB</address>
+        <description>G11 6AB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Portobello Basics Bank</name>
+        <address>EH7 6TZ</address>
+        <description>EH7 6TZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Queen's Park Govanhill Food Bank]]></name>
+        <address>G42 8QZ</address>
+        <description>G42 8QZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sauchie Food Bank</name>
+        <address>FK10 3EA</address>
+        <description>FK10 3EA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sharpe Memorial </name>
+        <address>G31 4TB</address>
+        <description>G31 4TB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Change Somebody Cares</name>
+        <address>AB12 3AX</address>
+        <description>AB12 3AX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Rollox Church</name>
+        <address>G21 1TN</address>
+        <description>G21 1TN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Vincent de Paul Society</name>
+        <address>AB10 1SH</address>
+        <description>AB10 1SH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Storehouse</name>
+        <address>EH51 9AR</address>
+        <description>EH51 9AR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Storehouse Food Bank</name>
+        <address>G13 1DQ</address>
+        <description>G13 1DQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The First Base Agency</name>
+        <address>DG1 2AH</address>
+        <description>DG1 2AH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Wayside Club</name>
+      </Placemark>
+      <Placemark>
+        <name>The Gate Charity</name>
+        <address>FK10 2DR</address>
+        <description>FK10 2DR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Unity Centre</name>
+        <address>G51 1AQ</address>
+        <description>G51 1AQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>West Dumbartonshire Community Foodshare</name>
+        <address>G83 0NU</address>
+        <description>G83 0NU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>West Dunbartonshire Community Foodshare</name>
+        <address>G82 1LJ</address>
+        <description>G82 1LJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>West Dunbartonshire Community Foodshare</name>
+        <address>G83 0NU</address>
+        <description>G83 0NU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Whiteinch Food Bank</name>
+        <address>GL14 0BX</address>
+        <description>GL14 0BX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Northern Ireland</name>
+      <Placemark>
+        <name>Storehouse Food Warehouse</name>
+        <address>BT17 0HD</address>
+        <description>BT17 0HD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Larder, Mersey Street</name>
+        <address>BT4 1EX</address>
+        <description>BT4 1EX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Willowfield Church</name>
+        <address>BT6 8FE</address>
+        <description>BT6 8FE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Store House North Down</name>
+        <address>BT19 7TA</address>
+        <description>BT19 7TA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Pantry Food Bank</name>
+        <address>BT33 0DJ</address>
+        <description>BT33 0DJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Store House Food Bank</name>
+        <address>BT32 4AA</address>
+        <description>BT32 4AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rotary Foyle Food Bank</name>
+        <address>BT48 6RQ.</address>
+        <description>BT48 6RQ.</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Roe Valley Community Food Bank</name>
+        <address>BT49 9HS</address>
+        <description>BT49 9HS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>SVP Food Bank</name>
+        <address>BT80 8PZ</address>
+        <description>BT80 8PZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Antioch Store House</name>
+        <address>BT80 8NX</address>
+        <description>BT80 8NX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Omagh Community Church Food Bank </name>
+        <address>BT78 1BT</address>
+        <description>BT78 1BT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Fountain Foodbank</name>
+        <address>BT30 6AW</address>
+        <description>BT30 6AW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>First Presbyterian Church Food Bank</name>
+        <address>B24 8HB</address>
+        <description>B24 8HB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Midlands</name>
+      <Placemark>
+        <name><![CDATA[Acock's Green Food Bank]]></name>
+        <address>B27 7UL</address>
+        <description>B27 7UL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Arena Community Food Bank </name>
+        <address>DE7 8DU</address>
+        <description>DE7 8DU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>As-Salaam Peace Centre Food Bank</name>
+        <address>LE5 2NG</address>
+        <description>LE5 2NG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ashbourne Food Bank</name>
+        <address>DE6 1DG</address>
+        <description>DE6 1DG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Asian Disabled Association </name>
+        <address>DE23 6QT</address>
+        <description>DE23 6QT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Austin Neighbourhood Base</name>
+        <address>DE23 8AR</address>
+        <description>DE23 8AR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bassetlaw Food Bank</name>
+        <address>DN22 6BP</address>
+        <description>DN22 6BP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bassetlaw Food Bank</name>
+        <address>S80 2JR</address>
+        <description>S80 2JR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham Central Mosque</name>
+        <address>B12 0XS</address>
+        <description>B12 0XS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham Vineyard Church Food Bank</name>
+        <address>B5 7EP</address>
+        <description>B5 7EP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Black Country Food Bank</name>
+        <address>WS9 8HB</address>
+        <description>WS9 8HB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Blessed 2 Bless Food Bank </name>
+        <address>B15 1AS</address>
+        <description>B15 1AS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Blessed 2 Bless Food Bank </name>
+        <address>B26 1BU</address>
+        <description>B26 1BU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bolsover Food Bank</name>
+        <address>S44 6NN</address>
+        <description>S44 6NN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Brackley Food Bank</name>
+        <address>NN13 6AJ</address>
+        <description>NN13 6AJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Braunstone Foodshare Food Bank</name>
+        <address>LE3 1JW</address>
+        <description>LE3 1JW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Braunstone Foodshare Food Bank</name>
+        <address>LE3 1LE</address>
+        <description>LE3 1LE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Braunstone Foodshare Food Bank</name>
+        <address>LE3 1RH</address>
+        <description>LE3 1RH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Canaan Trust Food Bank</name>
+        <address>NG10 1GR</address>
+        <description>NG10 1GR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Daventry Food Bank</name>
+        <address>NN11 4EZ</address>
+        <description>NN11 4EZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Derby City Mission</name>
+        <address>DE1 1NN</address>
+        <description>DE1 1NN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Derby City Mission</name>
+        <address>DE23 8BP</address>
+        <description>DE23 8BP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Derby City Mission</name>
+        <address>DE24 8AX</address>
+        <description>DE24 8AX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Derby Refugee Advice Centre</name>
+        <address>DE1 3DS</address>
+        <description>DE1 3DS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>East Northants Community Services Food Bank</name>
+        <address>NN10 0QX</address>
+        <description>NN10 0QX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Elim Life Church Food Bank</name>
+        <address>B44 8QD</address>
+        <description>B44 8QD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Food and Education Enterprise CIC</name>
+        <address>DE1 2GD</address>
+        <description>DE1 2GD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Good Shepherd Ministry Food Bank</name>
+        <address>WV1 4LF</address>
+        <description>WV1 4LF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Harvest Community Food Bank</name>
+        <address>WV10 0EN</address>
+        <description>WV10 0EN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Himmah</name>
+        <address>NG7 5AJ</address>
+        <description>NG7 5AJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hope Centre</name>
+        <address>DE1 1LH</address>
+        <description>DE1 1LH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>House of Bread</name>
+        <address>ST18 0GB</address>
+        <description>ST18 0GB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Irthlingborough Food Bank</name>
+        <address>NN9 5RY</address>
+        <description>NN9 5RY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Jigsaw Food Bank</name>
+        <address>DE4 3EJ</address>
+        <description>DE4 3EJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Joseph's Storehouse, The Carpenter's Arms]]></name>
+        <address>LE11 1SL</address>
+        <description>LE11 1SL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ladywood Food Bank</name>
+        <address>B16 8RP</address>
+        <description>B16 8RP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Leicester Cathedral Charity Link Food Bank</name>
+        <address>LE2 7DH</address>
+        <description>LE2 7DH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Leicester Cathedral Charity Link Food Bank</name>
+        <address>LE1 5PZ</address>
+        <description>LE1 5PZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>New Mills Helping Hands Food Bank</name>
+        <address>SK22 4NP</address>
+        <description>SK22 4NP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Open Hands Food Store</name>
+        <address>LE2 1AB</address>
+        <description>LE2 1AB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Restore Northampton</name>
+        <address>NN5 6JF</address>
+        <description>NN5 6JF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Restore Northampton</name>
+        <address>​NN5 7LQ</address>
+        <description>​NN5 7LQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Restore Northampton</name>
+        <address>​NN1 2LZ</address>
+        <description>​NN1 2LZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Restore Northampton</name>
+        <address>NN3 6BQ</address>
+        <description>NN3 6BQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Salcare</name>
+        <address>DE75 7GF</address>
+        <description>DE75 7GF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Shirebrook Christian Centre Food Bank</name>
+        <address>NG20 8DG</address>
+        <description>NG20 8DG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>South Derbyshire CVS</name>
+        <address>DE11 9DD</address>
+        <description>DE11 9DD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Anns and Sneinton Food Store</name>
+        <address>NG3 4EZ</address>
+        <description>NG3 4EZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Austin's]]></name>
+        <address>ST17 4AW</address>
+        <description>ST17 4AW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Judes Community Project Food Bank </name>
+        <address>NN16 0SX</address>
+        <description>NN16 0SX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Storehouse, St Alkmund's Church]]></name>
+        <address>DE22 1GU</address>
+        <description>DE22 1GU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Systems House Padley Day Centre</name>
+        <address>DE1 1HT</address>
+        <description>DE1 1HT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Tenbury NILS</name>
+        <address>WR15 8AA</address>
+        <description>WR15 8AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Bridge</name>
+        <address>LE11 1TQ</address>
+        <description>LE11 1TQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Bridge</name>
+        <address>LE11 5EQ</address>
+        <description>LE11 5EQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Goodie Club</name>
+        <address>WV10 9AJ</address>
+        <description>WV10 9AJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Vine Food Bank</name>
+        <address>WV1 3HG</address>
+        <description>WV1 3HG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Well</name>
+        <address>WV10 6HH</address>
+        <description>WV10 6HH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wellingborough Food Bank</name>
+        <address>NN8 4JU</address>
+        <description>NN8 4JU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>West Bromwich Food Bank</name>
+        <address>B70 8EX</address>
+        <description>B70 8EX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>East of England</name>
+      <Placemark>
+        <name>Agape Foodbank</name>
+        <address>PE11 2XP</address>
+        <description>PE11 2XP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Barton Area Foodbank</name>
+        <address>DN18 5PJ</address>
+        <description>DN18 5PJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Basic Food Bank</name>
+        <address>IP11 7AJ</address>
+        <description>IP11 7AJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Basic Food Bank</name>
+        <address>IP11 9QJ</address>
+        <description>IP11 9QJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bridge Community Centre</name>
+        <address>LN5 8PS</address>
+        <description>LN5 8PS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>City Church</name>
+        <address>AL4 0LB</address>
+        <description>AL4 0LB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Daily Bread Food Larder</name>
+        <address>DN32 9BB</address>
+        <description>DN32 9BB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Daily Bread Food Larder</name>
+        <address>DN40 1LE</address>
+        <description>DN40 1LE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Daily Bread Food Larder</name>
+        <address>DN37 9EL</address>
+        <description>DN37 9EL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Families in Need (FIND)</name>
+        <address>IP1 9XJ</address>
+        <description>IP1 9XJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>FEED Vineyard Church</name>
+        <address>AL2 1EN</address>
+        <description>AL2 1EN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Five Loaves Food Bank</name>
+        <address>SS14 1UX</address>
+        <description>SS14 1UX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Gatehouse Food Bank</name>
+        <address>IP33 3TU</address>
+        <description>IP33 3TU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Great Yarmouth Food Bank</name>
+        <address>NR31 6LS</address>
+        <description>NR31 6LS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Great Yarmouth Food Bank</name>
+        <address>NR31 6LY</address>
+        <description>NR31 6LY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Great Yarmouth Food Bank</name>
+        <address>NR31 7BZ</address>
+        <description>NR31 7BZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Holbeach Community Larder</name>
+        <address>PE12 7LL</address>
+        <description>PE12 7LL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Horncastle Food Bank</name>
+        <address>LN9 5HF</address>
+        <description>LN9 5HF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lee Chapel North Helping Hands Food Bank</name>
+        <address>SS15 5HL</address>
+        <description>SS15 5HL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Leighton Linsdale Community Food Bank</name>
+        <address>LU7 1EQ</address>
+        <description>LU7 1EQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln Community Larder</name>
+        <address>LN2 5AR</address>
+        <description>LN2 5AR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln Community Larder</name>
+        <address>LN2 2ES</address>
+        <description>LN2 2ES</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln Community Larder</name>
+        <address>LN2 4LQ</address>
+        <description>LN2 4LQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Louth's Community Larder]]></name>
+      </Placemark>
+      <Placemark>
+        <name>New Life Community Larder</name>
+        <address>NG34 7JP</address>
+        <description>NG34 7JP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Newmarket Open Door</name>
+        <address>CB8 0BW</address>
+        <description>CB8 0BW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Purfleet Trust Food Bank</name>
+        <address>PE30 1QS</address>
+        <description>PE30 1QS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rock Foundation</name>
+        <address>DN32 9ES</address>
+        <description>DN32 9ES</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Skegness Community Larder</name>
+        <address>PE25 1BY</address>
+        <description>PE25 1BY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Ives Food Bank</name>
+        <address>PE27 6DG</address>
+        <description>PE27 6DG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Storehouse</name>
+        <address>SS2 5AW</address>
+        <description>SS2 5AW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Storehouse Food Bank</name>
+        <address>CO10 2EU</address>
+        <description>CO10 2EU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Stowmarket and Area Food Bank</name>
+        <address>1P14 2BD</address>
+        <description>1P14 2BD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>West Suffolk Storehouse</name>
+        <address>IP33 3NZ</address>
+        <description>IP33 3NZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>North of England</name>
+      <Placemark>
+        <name>4CT</name>
+        <address>M11 3TQ</address>
+        <description>M11 3TQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>4CT Sirling Centre</name>
+        <address>M40 2RE</address>
+        <description>M40 2RE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>A Way Out</name>
+        <address>TS18 1BZ</address>
+        <description>TS18 1BZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Alnwick District Food Bank</name>
+        <address>NE66 2XH</address>
+        <description>NE66 2XH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Alston Moor Food Bank</name>
+        <address>CA9 3SN</address>
+        <description>CA9 3SN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Amble Food Bank</name>
+        <address>NE65 0DT</address>
+        <description>NE65 0DT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Amble Food Bank</name>
+        <address>NE65 0DR</address>
+        <description>NE65 0DR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ashington Life Centre</name>
+        <address>NE63 8RN</address>
+        <description>NE63 8RN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Baraka Community Kitchen</name>
+        <address>BD1 3HU</address>
+        <description>BD1 3HU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Barnard Castle Storehouse</name>
+        <address>DL12 8PW</address>
+        <description>DL12 8PW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bash Local</name>
+        <address>HD6 1AQ</address>
+        <description>HD6 1AQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Batley Food Bank</name>
+        <address>WF17 5DT</address>
+        <description>WF17 5DT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Batley Care and Drop In</name>
+        <address>WF17 5DS</address>
+        <description>WF17 5DS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bernicia Group</name>
+        <address>NE63 0XF</address>
+        <description>NE63 0XF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bingley Food Bank</name>
+        <address>BD16 2LZ</address>
+        <description>BD16 2LZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Blackpool Food Bank</name>
+        <address>FY1 4BT</address>
+        <description>FY1 4BT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Boaz Trust</name>
+        <address>M15 5DD</address>
+        <description>M15 5DD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bradford Metropolitan Food Bank</name>
+        <address>BD8 9NN</address>
+        <description>BD8 9NN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Castleford Food Bank</name>
+        <address>WF10 5BP</address>
+        <description>WF10 5BP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CCF</name>
+        <address>PR5 5HR</address>
+        <description>PR5 5HR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Christ Church Key Centre</name>
+        <address>YO15 2AP</address>
+        <description>YO15 2AP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Church of the Resurrection Kingsley</name>
+        <address>WF9 5BP</address>
+        <description>WF9 5BP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Church on the Corner</name>
+        <address>S5 8AP</address>
+        <description>S5 8AP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Churches Together Leyland Food Bank</name>
+        <address>PR25 1PD</address>
+        <description>PR25 1PD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cloverleaf Church </name>
+        <address>LS11 0DP</address>
+        <description>LS11 0DP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Compassion Food Bank</name>
+        <address>M14 4SS</address>
+        <description>M14 4SS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Compassion in Action </name>
+        <address>M46 0RS</address>
+        <description>M46 0RS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Connect 25 </name>
+        <address>NE6 2AR</address>
+        <description>NE6 2AR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cottingham Food Bank</name>
+        <address>HU16 4BB</address>
+        <description>HU16 4BB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cramlington Food Bank</name>
+        <address>NE23 6QQ</address>
+        <description>NE23 6QQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CRY Askern </name>
+        <address>DN6 0PH</address>
+        <description>DN6 0PH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CSTAR</name>
+        <address>M40 2AZ</address>
+        <description>M40 2AZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>DASH</name>
+        <address>HD3 4BZ</address>
+        <description>HD3 4BZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Digmoor Food Bank</name>
+        <address>WN8 9HR</address>
+        <description>WN8 9HR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Disability Support Group North East</name>
+        <address>SR1 2AS</address>
+        <description>SR1 2AS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>DN7 Community Food Bank</name>
+        <address>DN7 5AQ</address>
+        <description>DN7 5AQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Driffield Food Bank</name>
+        <address>YO25 6ST</address>
+        <description>YO25 6ST</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>East Durham Trust FEED Project</name>
+        <address>SR8 5DP</address>
+        <description>SR8 5DP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>ECO Food Bank</name>
+        <address>DN12 1AB</address>
+        <description>DN12 1AB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Elland Food Bank</name>
+        <address>HX5 0JL</address>
+        <description>HX5 0JL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Emmeline's Pantry]]></name>
+        <address>M13 9WP</address>
+        <description>M13 9WP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Enamuas Project </name>
+        <address>NE25 2AG</address>
+        <description>NE25 2AG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>FaithNet Food Bank</name>
+        <address>WF7 5BJ</address>
+        <description>WF7 5BJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Fir Vale Food Bank </name>
+        <address>S5 6UA</address>
+        <description>S5 6UA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Firth Park Food Bank</name>
+        <address>S5 6FF</address>
+        <description>S5 6FF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Fleetwood Food Bank</name>
+        <address>FY7 6RE</address>
+        <description>FY7 6RE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Food and Support Drop In</name>
+        <address>HX1 1YS</address>
+        <description>HX1 1YS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Food Bank 4 Whitby</name>
+        <address>YO21 3AJ</address>
+        <description>YO21 3AJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Fusin Giving Food Bank</name>
+        <address>W12 8DJ</address>
+        <description>W12 8DJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Gateway Food Bank </name>
+        <address>S71 1BH</address>
+        <description>S71 1BH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Grace Food Bank</name>
+        <address>S8 7JB</address>
+        <description>S8 7JB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Grace Ministries Food Bank</name>
+        <address>LA3 1QF</address>
+        <description>LA3 1QF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Grange Road Baptist Church </name>
+        <address>NE32 3JA</address>
+        <description>NE32 3JA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hambleton Food Share</name>
+        <address>DL7 8JZ</address>
+        <description>DL7 8JZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hebburn Helps</name>
+        <address>NE31 1QY</address>
+        <description>NE31 1QY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Highway Hope Project</name>
+        <address>M12 4WQ</address>
+        <description>M12 4WQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Holbeck Food Bank</name>
+        <address>LS1 4ND</address>
+        <description>LS1 4ND</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Holme Valley Food Bank </name>
+        <address>HD9 1HA</address>
+        <description>HD9 1HA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Holme Valley Food Bank </name>
+        <address>HD9 7EQ</address>
+        <description>HD9 7EQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hope Food Bank Elim Foursquare Church</name>
+        <address>OL4 2AB</address>
+        <description>OL4 2AB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hospitality and Hope </name>
+        <address>NE33 4JR</address>
+        <description>NE33 4JR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hull Homeless Outreach Food Bank</name>
+        <address>HU1 1EJ</address>
+        <description>HU1 1EJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Inspiring Grace Mobile Food Bank</name>
+        <address>BB9 8SG</address>
+        <description>BB9 8SG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ilkley Food Bank</name>
+        <address>LS29 9LU</address>
+        <description>LS29 9LU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Jubilee Food Bank</name>
+        <address>S11 8RN</address>
+        <description>S11 8RN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Key Project</name>
+        <address>NE33 2BA</address>
+        <description>NE33 2BA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[King's Food Bank]]></name>
+        <address>DL3 0QT</address>
+        <description>DL3 0QT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[King's Food Bank Kendal]]></name>
+        <address>LA9 5AF</address>
+        <description>LA9 5AF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Labyrinth</name>
+        <address>TS18 1DY</address>
+        <description>TS18 1DY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Living Lights Mobile Food Bank</name>
+        <address>BD21 4QY</address>
+        <description>BD21 4QY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Living Waters Storehouse Food Bank</name>
+        <address>PR7 3AB</address>
+        <description>PR7 3AB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Luv Preston Food Bank</name>
+        <address>PR1 2EF</address>
+        <description>PR1 2EF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Maltby</name>
+        <address>S66 8DG</address>
+        <description>S66 8DG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Marsh Community Centre</name>
+        <address>LA1 5PP</address>
+        <description>LA1 5PP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Merseyside Youth Association Food Bank</name>
+        <address>L1 3DY</address>
+        <description>L1 3DY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Mexborough Food Bank</name>
+        <address>S64 9ED</address>
+        <description>S64 9ED</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Moortown Baptist Church</name>
+        <address>LS17 6AA</address>
+        <description>LS17 6AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Neruka's Soup Kitchen]]></name>
+        <address>LS8 5ES</address>
+        <description>LS8 5ES</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>New Hope Church </name>
+        <address>NE33 4PR.</address>
+        <description>NE33 4PR.</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>New Hope Food Bank</name>
+        <address>S21 2JU</address>
+        <description>S21 2JU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Newsham Food Bank</name>
+        <address>NE244BP</address>
+        <description>NE244BP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>North Northumberland Food Bank</name>
+        <address>NE66 2XH</address>
+        <description>NE66 2XH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Oasis Centre</name>
+        <address>M18 8TX</address>
+        <description>M18 8TX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>One77</name>
+        <address>TS26 9EQ</address>
+        <description>TS26 9EQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ossett Food Bank for Wakefield area</name>
+        <address>WF5 0BE</address>
+        <description>WF5 0BE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Oswaldtwistle Food Bank</name>
+        <address>BB5 3HQ</address>
+        <description>BB5 3HQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Otley Food Bank</name>
+        <address>LS21 3LJ</address>
+        <description>LS21 3LJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Our Food Bank</name>
+        <address>BB5 5PZ</address>
+        <description>BB5 5PZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>PAFRAS</name>
+        <address>LS8 5QD</address>
+        <description>LS8 5QD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Parish Food Bank</name>
+        <address>HD1 5JY</address>
+        <description>HD1 5JY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Penwortham Food Bank</name>
+        <address>PR1 9EQ</address>
+        <description>PR1 9EQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rainbow Haven</name>
+        <address>M18 8TJ</address>
+        <description>M18 8TJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rainbow Haven</name>
+        <address>M6 5PN</address>
+        <description>M6 5PN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Real Aid</name>
+        <address>YO16 4JE</address>
+        <description>YO16 4JE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Revive</name>
+        <address>M11 3ND</address>
+        <description>M11 3ND</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Richmond Storehouse</name>
+        <address>DL10 4AS</address>
+        <description>DL10 4AS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Right Choices Food Bank</name>
+        <address>LS6 3HN</address>
+        <description>LS6 3HN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>S2 Food Bank</name>
+        <address>S2 1JP</address>
+        <description>S2 1JP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>S20 Food Bank</name>
+        <address>S20 8LE</address>
+        <description>S20 8LE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Save the Mother Trust Food Bank</name>
+        <address>BD7 2JX</address>
+        <description>BD7 2JX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Share Foodbank</name>
+        <address>S5 8NJ</address>
+        <description>S5 8NJ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Skipton Food Bank</name>
+        <address>BD23 1ET</address>
+        <description>BD23 1ET</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Spacious Place</name>
+        <address>BB11 1TQ</address>
+        <description>BB11 1TQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Spires Food Bank</name>
+        <address>S2 2AN</address>
+        <description>S2 2AN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Aidan's Church ]]></name>
+        <address>LS8 5QD</address>
+        <description>LS8 5QD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Andrew's FoodStore]]></name>
+        <address>DL1 2DD</address>
+        <description>DL1 2DD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Catherine's Church Food Bank]]></name>
+        <address>WF1 5HL</address>
+        <description>WF1 5HL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Columba's Church]]></name>
+        <address>DL1 5EB</address>
+        <description>DL1 5EB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Cross Church</name>
+        <address>M11 4UA</address>
+        <description>M11 4UA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St George's Community Centre]]></name>
+        <address>WF2 8AA</address>
+        <description>WF2 8AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St George's Crypt Food Bank]]></name>
+        <address>LS1 3BR</address>
+        <description>LS1 3BR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Mary's Cockerton]]></name>
+        <address>DL3 9EG</address>
+        <description>DL3 9EG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Mary's Food Bank]]></name>
+        <address>M34 7GD</address>
+        <description>M34 7GD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Vincent's]]></name>
+        <address>LS9 9AA</address>
+        <description>LS9 9AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Storehouse Urban Outreach </name>
+        <address>BL2 1DZ</address>
+        <description>BL2 1DZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Street Care St Gabriels</name>
+        <address>SR4 7TF</address>
+        <description>SR4 7TF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sunderland Elim Food Bank</name>
+        <address>SR2 7PD</address>
+        <description>SR2 7PD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Hub Church Food Bank</name>
+        <address>S36 2DU</address>
+        <description>S36 2DU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The King's Castle Food Bank]]></name>
+        <address>NE6 2AR</address>
+        <description>NE6 2AR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Matthew Project</name>
+        <address>NE22 5DF</address>
+        <description>NE22 5DF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Moses Project</name>
+        <address>TS18 3EE</address>
+        <description>TS18 3EE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Olive Branch Food Bank</name>
+        <address>LA1 5DB</address>
+        <description>LA1 5DB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Raft Foundation</name>
+        <address>BB4 6HH</address>
+        <description>BB4 6HH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Rainbow Centre</name>
+        <address>YO11 1TH</address>
+        <description>YO11 1TH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Rainbow Christian Centre</name>
+        <address>M15 6QL</address>
+        <description>M15 6QL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Thorne Moorends Food Bank and Community Hub</name>
+        <address>DN8 5BU</address>
+        <description>DN8 5BU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Todmorden Food and Drop-In</name>
+        <address>OL14 7BD</address>
+        <description>OL14 7BD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Together Women Project (TWP)</name>
+        <address>LS1 2LF</address>
+        <description>LS1 2LF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Upper Eden Food Bank</name>
+        <address>CA11 8QU</address>
+        <description>CA11 8QU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Vinelife Food Bank</name>
+        <address>M14 4PA</address>
+        <description>M14 4PA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Vineyard Church Storehouse</name>
+        <address>NE6 2FF</address>
+        <description>NE6 2FF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wansbeck Valley Food Bank</name>
+        <address>NE61 1HW</address>
+        <description>NE61 1HW</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wansbeck Valley Food Bank</name>
+        <address>NE61 5TR</address>
+        <description>NE61 5TR</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wansbeck Valley Food Bank</name>
+        <address>NE61 6XF</address>
+        <description>NE61 6XF</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wansbeck Valley Food Bank</name>
+        <address>NE63 8HZ</address>
+        <description>NE63 8HZ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wansbeck Valley Food Bank</name>
+        <address>NE64 6PS</address>
+        <description>NE64 6PS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Washington Community Food Project</name>
+        <address>NE37 2TD</address>
+        <description>NE37 2TD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>West Northumberland Food Bank</name>
+        <address>NE46 3PU</address>
+        <description>NE46 3PU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Westfield Centre Food Bank</name>
+        <address>WF9 2PU</address>
+        <description>WF9 2PU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Westway Open Arms Food Bank</name>
+        <address>YO11 3EE</address>
+        <description>YO11 3EE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Windmill Youth Centre</name>
+        <address>LS26 0AG</address>
+        <description>LS26 0AG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Word of Life Darlington</name>
+        <address>DL3 6AS</address>
+        <description>DL3 6AS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Greater London</name>
+      <Placemark>
+        <name>AFRIL Helping Hands Food Bank</name>
+        <address>SE13 5ES</address>
+        <description>SE13 5ES</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Barley Loaves Food Service</name>
+        <address>SE13 7FY</address>
+        <description>SE13 7FY</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cara Trust Food Bank</name>
+        <address>W11 4AH</address>
+        <description>W11 4AH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Carpenters Café</name>
+        <address>E15 2JL</address>
+        <description>E15 2JL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Churches Food Bank St Paul's Stratford]]></name>
+        <address>E15 1JL</address>
+        <description>E15 1JL</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Churches Food Bank Woodgrange Baptist Church</name>
+        <address>E7 8AA</address>
+        <description>E7 8AA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dad's House]]></name>
+        <address>SW5 9JH</address>
+        <description>SW5 9JH</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Dalgarno FoodBank</name>
+        <address>W10 5QB</address>
+        <description>W10 5QB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Divine Rescue Food Bank</name>
+        <address>SE17 2US</address>
+        <description>SE17 2US</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Earlsfield Food Bank</name>
+        <address>SW18 8EE</address>
+        <description>SW18 8EE</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Eat or Heat</name>
+        <address>E17 4QU</address>
+        <description>E17 4QU</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Eat or Heat</name>
+        <address>E4 8LT</address>
+        <description>E4 8LT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Feltham Food Bank</name>
+        <address>TW14 0AX</address>
+        <description>TW14 0AX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Five Loaves Food Bank</name>
+        <address>N15 5AD</address>
+        <description>N15 5AD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hounslow Community Food Box</name>
+        <address>TW8 8JN</address>
+        <description>TW8 8JN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Leytonstone Food Bank at Sally's Kitchen]]></name>
+        <address>E11 4PP</address>
+        <description>E11 4PP</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Living Waters</name>
+        <address>SE20 7LX</address>
+        <description>SE20 7LX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Living Waters Christian Church Food Service</name>
+        <address>SE4 2JD​</address>
+        <description>SE4 2JD​</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rukh Sana Khan Foundation</name>
+        <address>E17 7NX</address>
+        <description>E17 7NX</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>St Mary Magdalen</name>
+        <address>N7 8LT</address>
+        <description>N7 8LT</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Paul's Food Bank]]></name>
+        <address>TW3 3DA</address>
+        <description>TW3 3DA</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Storehouse Food Bank</name>
+        <address>TW13 7EQ</address>
+        <description>TW13 7EQ</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Lawrence's Larder]]></name>
+        <address>NW6 7YN</address>
+        <description>NW6 7YN</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Hive Food Bank</name>
+        <address>N19 3AD</address>
+        <description>N19 3AD</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Renewal Programme</name>
+        <address>E12 6PG</address>
+        <description>E12 6PG</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>We Care Food Bank</name>
+        <address>SE16 2LS</address>
+        <description>SE16 2LS</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Women at the Well</name>
+        <address>WC1H 8BB</address>
+        <description>WC1H 8BB</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>IFAN Members</name>
+      <Placemark>
+        <name>Action Homeless The Food Stop</name>
+        <address>LE1 5FT</address>
+        <description>LE1 5FT</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ashton Churches Together (ACT) Food Bank</name>
+        <address>WN4 9NL</address>
+        <description>WN4 9NL</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Berwick Community Trust</name>
+        <address>TD15 1JT</address>
+        <description>TD15 1JT</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Black Country Food Bank</name>
+        <address>DY5 3EE</address>
+        <description>DY5 3EE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Brierley Hill Project, Black Country Food Bank</name>
+        <address>DY5 2RR</address>
+        <description>DY5 2RR</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Darkhouse Foodbank, Black Country Food Bank</name>
+        <address>WV14 8XH</address>
+        <description>WV14 8XH</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Refresh, Black Country Food Bank</name>
+        <address>DY1 3EB</address>
+        <description>DY1 3EB</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Replenish, Black Country Food Bank</name>
+        <address>DY8 1PQ</address>
+        <description>DY8 1PQ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Springs, Black Country Food Bank</name>
+        <address>DY3 1YB</address>
+        <description>DY3 1YB</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Take a Break, Black Country Food Bank</name>
+        <address>DY3 2AU</address>
+        <description>DY3 2AU</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Carpenter's Shop, Black Country Food Bank]]></name>
+        <address>B63 2LA</address>
+        <description>B63 2LA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Giving Hands Charity, Black Country Food Bank</name>
+        <address>DY5 2RG</address>
+        <description>DY5 2RG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>LifeCentral Food Bank, Black Country Food Bank</name>
+        <address>B63 3AJ</address>
+        <description>B63 3AJ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ablewell Advice, Black Country Food Bank</name>
+        <address>WS1 2EQ</address>
+        <description>WS1 2EQ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>All Saints, Black Country Food Bank</name>
+        <address>WS10 9LA</address>
+        <description>WS10 9LA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bridging the Gap, Black Country Food Bank</name>
+        <address>WV13 1RT</address>
+        <description>WV13 1RT</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Rock, Black Country Food Bank</name>
+        <address>WS1 1TE</address>
+        <description>WS1 1TE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Small Street Centre, Black Country Food Bank</name>
+        <address>WS1 3PR</address>
+        <description>WS1 3PR</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Fountain of Life, Black Country Food Bank</name>
+        <address>B69 3AG</address>
+        <description>B69 3AG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Community Links, Black Country Food Bank</name>
+        <address>B64 5HA</address>
+        <description>B64 5HA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The James Project, Black Country Food Bank</name>
+        <address>B64 5SA</address>
+        <description>B64 5SA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Well, Black Country Food Bank</name>
+        <address>DY4 8QJ</address>
+        <description>DY4 8QJ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Thomas Project, Black Country Food Bank </name>
+        <address>WS9 8HB</address>
+        <description>WS9 8HB</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bow Food Bank</name>
+        <address>E3 3AH</address>
+        <description>E3 3AH</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Carlisle Food Bank</name>
+        <address>CA3 8LZ</address>
+        <description>CA3 8LZ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CATCH Cwmtawe Action To Combat Hardship</name>
+        <address>SA9 2JA</address>
+        <description>SA9 2JA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Chatterbox Project</name>
+        <address>M9 7BL</address>
+        <description>M9 7BL</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Chelwood Food Bank Plus</name>
+        <address>SK8 5QA</address>
+        <description>SK8 5QA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Chelwood Food Bank Plus</name>
+        <address>SK5 8LS</address>
+        <description>SK5 8LS</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Chelwood Food Bank Plus</name>
+        <address>SK3 9AB</address>
+        <description>SK3 9AB</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Chelwood Food Bank Plus</name>
+        <address>SK1 1HD</address>
+        <description>SK1 1HD</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Christchurch Food Bank</name>
+        <address>BH23 1EH</address>
+        <description>BH23 1EH</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN17 3JZ</address>
+        <description>TN17 3JZ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>CT9 2DB</address>
+        <description>CT9 2DB</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>CT9 3RU</address>
+        <description>CT9 3RU</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>CT12 6HX</address>
+        <description>CT12 6HX</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>CT11 7AJ</address>
+        <description>CT11 7AJ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>CT11 9SQ</address>
+        <description>CT11 9SQ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>CT9 1WH</address>
+        <description>CT9 1WH</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME9 8TH</address>
+        <description>ME9 8TH</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME12 4AN</address>
+        <description>ME12 4AN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME11 5JF</address>
+        <description>ME11 5JF</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME12 1AW</address>
+        <description>ME12 1AW</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME10 1PT</address>
+        <description>ME10 1PT</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME10 1JS</address>
+        <description>ME10 1JS</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME10 3RU</address>
+        <description>ME10 3RU</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME9 9SN</address>
+        <description>ME9 9SN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME10 2EE</address>
+        <description>ME10 2EE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME13 8AP</address>
+        <description>ME13 8AP</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME13 7NU</address>
+        <description>ME13 7NU</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME9 0BH</address>
+        <description>ME9 0BH</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME15 8DR</address>
+        <description>ME15 8DR</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME15 9JR</address>
+        <description>ME15 9JR</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN12 9JX</address>
+        <description>TN12 9JX</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>ME15 6TL</address>
+        <description>ME15 6TL</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN23 5RN</address>
+        <description>TN23 5RN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN24 0PQ</address>
+        <description>TN24 0PQ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN26 1HA</address>
+        <description>TN26 1HA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN24 9LS</address>
+        <description>TN24 9LS</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN23 4EY</address>
+        <description>TN23 4EY</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN24 0JG</address>
+        <description>TN24 0JG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN23 1QG</address>
+        <description>TN23 1QG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Family Food Bank</name>
+        <address>TN30 6RA</address>
+        <description>TN30 6RA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Friends of the Homeless Gosport and Fareham Basic Banks</name>
+        <address>PO12 1QA</address>
+        <description>PO12 1QA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Friends of the Homeless Gosport and Fareham Basic Banks</name>
+        <address>PO16 7XU</address>
+        <description>PO16 7XU</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>High Peak Food Bank</name>
+        <address>SK17 6PT</address>
+        <description>SK17 6PT</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hope Food Bank</name>
+        <address>L1 5JP</address>
+        <description>L1 5JP</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hope Food Bank</name>
+        <address>L8 7LT</address>
+        <description>L8 7LT</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>House of Bread, Stafford</name>
+        <address>ST18 0GB</address>
+        <description>ST18 0GB</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Instant Neighbour</name>
+        <address>AB24 3YJ</address>
+        <description>AB24 3YJ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lambeth Larder</name>
+        <address>SE24 0HU</address>
+        <description>SE24 0HU</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Largs Foodbank</name>
+        <address>KA30 8BL</address>
+        <description>KA30 8BL</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Living Well </name>
+        <address>SE20 7JX</address>
+        <description>SE20 7JX</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Mission Trinity</name>
+        <address>DN14 6AS</address>
+        <description>DN14 6AS</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Mosaic Food Bank</name>
+        <address>LE3 2BG</address>
+        <description>LE3 2BG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>North Oxfordshire Community Food Bank</name>
+        <address>OX5 2DS</address>
+        <description>OX5 2DS</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>North Oxfordshire Community Food Bank</name>
+        <address>OX7 5LL</address>
+        <description>OX7 5LL</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>North Oxfordshire Community Food Bank</name>
+        <address>OX20 1TE</address>
+        <description>OX20 1TE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>North Paddington Food Bank</name>
+        <address>W9 2HX</address>
+        <description>W9 2HX</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>PATCH</name>
+        <address>SA73 3LD</address>
+        <description>SA73 3LD</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>PATCH</name>
+        <address>SA72 6TD</address>
+        <description>SA72 6TD</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>PATCH</name>
+        <address>SA69 9BD</address>
+        <description>SA69 9BD</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>PATCH</name>
+        <address>SA61 1QE</address>
+        <description>SA61 1QE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Poitiers Care</name>
+        <address>BH24 1LG</address>
+        <description>BH24 1LG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Pontardawe Pantry Food Bank</name>
+        <address>SA8 4HH</address>
+        <description>SA8 4HH</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Porch Boxes</name>
+        <address>M26 1WR</address>
+        <description>M26 1WR</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Purley Food Hub</name>
+        <address>CR8 2LN</address>
+        <description>CR8 2LN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>ReadiFood</name>
+        <address>RG2 0NH</address>
+        <description>RG2 0NH</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Redhill Foodbank</name>
+        <address>RH1 1DL</address>
+        <description>RH1 1DL</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>SALMA Food Bank</name>
+        <address>B66 1QG</address>
+        <description>B66 1QG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Paul's Pantry ]]></name>
+        <address>CW1 3BY</address>
+        <description>CW1 3BY</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Southampton City Mission</name>
+        <address>SO14 7FE</address>
+        <description>SO14 7FE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Southampton City Mission</name>
+        <address>SO19 8ES</address>
+        <description>SO19 8ES</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Southampton City Mission</name>
+        <address>SO18 1NP</address>
+        <description>SO18 1NP</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Southampton City Mission</name>
+        <address>SO16 3BE</address>
+        <description>SO16 3BE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Southampton City Mission</name>
+        <address>SO16 8HY</address>
+        <description>SO16 8HY</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Matthew's Church, Sutton Bridge]]></name>
+        <address>Pe12 9sd</address>
+        <description>Pe12 9sd</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Stow Park Community Centre</name>
+        <address>NP20 4FX</address>
+        <description>NP20 4FX</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sufra NW London</name>
+        <address>NW10 0PW</address>
+        <description>NW10 0PW</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Swansea Eastside Foodbank</name>
+        <address>SA1 7AU</address>
+        <description>SA1 7AU</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Bay Foodbank</name>
+        <address>NE29 6BA</address>
+        <description>NE29 6BA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Community Emergency Food Bank</name>
+        <address>OX4 4QB</address>
+        <description>OX4 4QB</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Community Emergency Foodbank (CEF)</name>
+        <address>OX3 7JF</address>
+        <description>OX3 7JF</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Lalley Centre</name>
+        <address>M40 7RG</address>
+        <description>M40 7RG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Orchard</name>
+        <address>L5 9PR</address>
+        <description>L5 9PR</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The River Manchester</name>
+        <address>M11 1JG</address>
+        <description>M11 1JG</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Welcome Centre</name>
+        <address>HD1 3RR</address>
+        <description>HD1 3RR</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>VOICE</name>
+        <address>BB1 1EZ</address>
+        <description>BB1 1EZ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Washington Community Food Project</name>
+        <address>NE38 0LA</address>
+        <description>NE38 0LA</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Wimborne Food Bank</name>
+        <address>BH21 2AR</address>
+        <description>BH21 2AR</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Winchester Basics Bank</name>
+        <address>SO23 0PZ</address>
+        <description>SO23 0PZ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Winchester Basics Bank</name>
+        <address>SO22 6DS</address>
+        <description>SO22 6DS</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Winchester Basics Bank</name>
+        <address>SO22 4BX</address>
+        <description>SO22 4BX</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
