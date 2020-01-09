@@ -2,6 +2,8 @@ import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import { Header as LunaHeader, HeaderLogo, HeaderNav } from '@jsluna/react'
 import { Sainsburys } from '@jsluna/images'
+import { HeaderActions } from '@jsluna/header'
+import { Favourites, Account, Basket } from '@jsluna/icons'
 
 import routes from 'routes'
 
@@ -22,6 +24,21 @@ const Header = () => (
         </NavLink>
       ))}
     </HeaderNav>
+
+    <HeaderActions align="right" label="Basket and account">
+      <a href="#basket">
+        <Basket />
+        <span className="ln-u-visually-hidden">Basket</span>
+      </a>
+      <a href="#favourites">
+        <Favourites />
+        <span className="ln-u-visually-hidden">Favourites</span>
+      </a>
+      <a href="#account">
+        <Account />
+        <span className="ln-u-visually-hidden">Account</span>
+      </a>
+    </HeaderActions>
   </LunaHeader>
 )
 

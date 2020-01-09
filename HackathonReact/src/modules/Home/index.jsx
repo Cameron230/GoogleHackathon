@@ -1,5 +1,4 @@
 import React from 'react'
-
 import { Card } from '@jsluna/react'
 import { AwardWinning } from '@jsluna/icons'
 
