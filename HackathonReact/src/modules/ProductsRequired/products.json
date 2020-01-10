@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tinned tomatoes",
+      "quantity": "32"
+    },
+    {
+      "id": 2,
+      "name": "Heinz Beans",
+      "quantity": "222"
+    }
+  ]
+}

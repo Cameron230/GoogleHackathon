@@ -1,0 +1,19 @@
+{
+  "foodbank": [
+    {
+      "id": 1,
+      "name": "hello",
+      "location": "17 Drury Lane, London"
+    },
+    {
+      "id": 2,
+      "name": "goodbye",
+      "location": "71 Drury Lane, London"
+    },
+    {
+      "id": 3,
+      "name": "see you again",
+      "location": "01 Drury Lane"
+    }
+  ]
+}

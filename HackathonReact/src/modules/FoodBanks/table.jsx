@@ -1,37 +1,26 @@
 import React from 'react'
-import { SearchField } from '@jsluna/form'
-import { Search } from '@jsluna/icons'
 import { Table } from '@jsluna/table'
-const data = require('./products.json')
+// import { foodbank as data } from './TestData.json'
+const data = require('./TestData.json')
 
-const ProductsRequired = () => (
+const FoodBanksTable = () => (
   <div>
-    <h1>Products Required</h1>
-
-    <SearchField
-      name="search-field-3"
-      label="Search products"
-      hideLabel
-      placeholder="Search products"
-      hasIcon
-      icon={<Search />}
-    />
-
     <Table
-      rowKey="products.id"
+      rowKey="foodbank.id"
+      responsive
       sortable
-      data={data.products}
+      data={data.foodbank}
       columns={[
         {
-          name: 'Item',
+          name: 'Name',
           accessor: rowData => ({ value: rowData.name }),
           hideLabel: true,
           className: 'customCol',
         },
         {
-          name: 'Quantity',
+          name: 'Location',
           accessor: rowData => ({
-            value: rowData.quantity,
+            value: rowData.location,
           }),
           sort: (accessor, ascending) => (a, b) => {
             const valueA = parseInt(accessor(a).value, 10)
@@ -55,4 +44,4 @@ const ProductsRequired = () => (
   </div>
 )
 
-export default ProductsRequired
+export default FoodBanksTable
